@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd
+mv [[:upper:]]* tmp/u/
